@@ -43,26 +43,22 @@ pip install -r requirements.txt
 ```
 
 ## Screenshots
-### Screenshot 1
-![Image](assets/IMG-20251202-WA0019.jpg)
 
-### Screenshot 2
+### Screenshot 1
 ![Image](assets/IMG-20251202-WA0020.jpg)
 
-### Screenshot 3
+### Screenshot 2
 ![Image](assets/IMG-20251202-WA0021.jpg)
 
-### Screenshot 4
+### Screenshot 3
 ![Image](assets/IMG-20251202-WA0022.jpg)
 
-### Screenshot 5
+### Screenshot 4
 ![Image](assets/IMG-20251202-WA0023.jpg)
 
-### Screenshot 6
+### Screenshot 5
 ![Image](assets/IMG-20251202-WA0024.jpg)
 
-### Screenshot 7
-![Image](assets/WhatsApp_Image_2025-12-02_at_11.46.24_e41b2771.jpg)
 
 
 ## 🛠 Tech Stack
