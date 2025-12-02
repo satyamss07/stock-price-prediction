@@ -42,4 +42,16 @@ pip install -r requirements.txt
 
 ```
 
-## Screenshots\n\n![Screenshot](assets/IMG-20251202-WA0019.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0020.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0021.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0022.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0023.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0024.jpg)\n\n![Screenshot](assets/WhatsApp Image 2025-12-02 at 11.46.24_e41b2771.jpg)\n\n ## Tech Stack - Python - Streamlit - TensorFlow - Pandas / NumPy - Plotly / Matplotlib ## License MIT License
+## Screenshots\n\n![Screenshot](assets/IMG-20251202-WA0019.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0020.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0021.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0022.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0023.jpg)\n\n![Screenshot](assets/IMG-20251202-WA0024.jpg)\n\n![Screenshot](assets/WhatsApp Image 2025-12-02 at 11.46.24_e41b2771.jpg)\n\n 
+
+## 🛠 Tech Stack
+
+- **Python**
+- **Streamlit**
+- **TensorFlow / Keras**
+- **NumPy & Pandas**
+- **Plotly / Matplotlib**
+- **yfinance** (Live stock data)
+- **Scikit-learn**
+- **LSTM Neural Networks**
+
